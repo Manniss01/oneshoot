@@ -43,22 +43,27 @@ Traditional chatbots rely solely on generative models that can hallucinate or pr
 
 ---
 
+## ⚙️ Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/rag_chatbot_football.git
+cd rag_chatbot_football
+
+# Install dependencies
+npm install
+
+# Setup environment variables
+cp .env.example .env.local
+# Fill in your OPENAI_API_KEY and ASTRA_DB credentials
+
+# (Optional) Seed the vector database
+npm run seed
+
+# Run the development server
+npm run dev
 ```
-bash
-- git clone https://github.com/Manniss01/oneshoot.git
-- cd oneshoot
-Create .env.local file in the root with this below
 
-OPENAI_API_KEY=your_openai_api_key
-ASTRA_DB_ID=your_astra_db_id
-ASTRA_DB_REGION=your_astra_db_region
-ASTRA_DB_KEYSPACE=your_astra_db_keyspace
-ASTRA_DB_APPLICATION_TOKEN=your_astra_db_application_token
-
-- npm install
-- npm run dev
-
-```
 # Future Improvements
 
 - Add more live data sources for up-to-date football stats.
@@ -72,12 +77,20 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 
 
-## Connect with us
-
-[![Manish LinkedIn](https://img.shields.io/badge/Lukas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manish-d-05b05221a/)
-[![UnicodeX](https://img.shields.io/badge/UnicodaX-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/company/unicodax/)
 
 
-🌐 Visit our website: lukas : [lukasaiengineer.com](https://lukasaiengineer.com/)
- unicodax: [unicodax.com](https://unicodax.com/)
+## 🌐 Connect With Us
+
+### 👨‍💻(Lukas)
+
+[![Website](https://img.shields.io/badge/Website-lukasaiengineer.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://lukasaiengineer.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@manish--d--05b05221a-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-d-05b05221a/)
+
+---
+
+### 🏢 UnicodeX (Company)
+
+[![Website](https://img.shields.io/badge/Website-unicodax.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://unicodax.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-UnicodeX-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/unicodax/)
+
 
