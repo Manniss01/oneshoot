@@ -61,11 +61,11 @@ ASTRA_DB_APPLICATION_TOKEN=your_astra_db_application_token
 ```
 # Future Improvements
 
-**Add more live data sources for up-to-date football stats.
-**Implement user authentication for personalized experience.
-**Add analytics dashboard to track popular queries.
-**Support multi-language football queries.
-**Enhance UI/UX with more animations and responsive design.
+- **Add more live data sources for up-to-date football stats.
+- **Implement user authentication for personalized experience.
+- **Add analytics dashboard to track popular queries.
+- **Support multi-language football queries.
+- **Enhance UI/UX with more animations and responsive design.
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
