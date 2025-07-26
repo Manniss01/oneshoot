@@ -82,7 +82,7 @@ const Home = () => {
             <>
               <p className="intro-text">
                 Welcome to <strong>Oneshoot RAG Football Chatbot</strong> — your expert assistant for all things football.
-                Ask about players, teams, matches, stats, and more. We're here to help you stay ahead of the game!
+                Ask about players, teams, matches, stats, and more. We are here to help you stay ahead of the game!
               </p>
               <PromptSuggestionsRow onPromptClick={handlePrompt} />
             </>
