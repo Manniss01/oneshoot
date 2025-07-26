@@ -71,10 +71,13 @@ ASTRA_DB_APPLICATION_TOKEN=your_astra_db_application_token
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 
-## Connect with us
 
 ## Connect with us
 
 [![Manish LinkedIn](https://img.shields.io/badge/Lukas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manish-d-05b05221a/)
 [![UnicodeX](https://img.shields.io/badge/UnicodaX-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/company/unicodax/)
+
+
+🌐 Visit our website: lukas : [lukasaiengineer.com](https://lukasaiengineer.com/)
+ unicodax: [unicodax.com](https://unicodax.com/)
 
