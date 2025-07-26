@@ -73,5 +73,8 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## Connect with us
 
-[![Manish LinkedIn](https://img.shields.io/badge/lukas-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/manish-d-05b05221a/))
-[![UnicodeX](https://img.shields.io/badge/UnicodaX-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/company/unicodex/](https://www.linkedin.com/company/unicodax/?viewAsMember=true))
+## Connect with us
+
+[![Manish LinkedIn](https://img.shields.io/badge/Lukas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manish-d-05b05221a/)
+[![UnicodeX](https://img.shields.io/badge/UnicodaX-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/company/unicodax/)
+
