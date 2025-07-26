@@ -1,7 +1,8 @@
-# RAG Football Chatbot
+# OneShoot RAG Football Chatbot
 
 A **Retrieval-Augmented Generation (RAG)** chatbot designed specifically for football enthusiasts. This intelligent assistant combines the power of OpenAI GPT models with custom data retrieval to provide accurate, dynamic, and contextually relevant answers about football matches, players, stats, and more.
 
+![OneShoot Screenshot](./public/preview.png)
 ---
 
 ## 🚀 Project Overview
@@ -81,7 +82,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 🌐 Connect With Us
 
-### 👨‍💻(Lukas)
+### 👨‍💻 Manish Darji (Lukas)
 
 [![Website](https://img.shields.io/badge/Website-lukasaiengineer.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://lukasaiengineer.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@manish--d--05b05221a-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-d-05b05221a/)
@@ -90,7 +91,10 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ### 🏢 UnicodeX (Company)
 
+UnicodeX is a forward-thinking software company specializing in AI-powered applications, chatbots, RAG (Retrieval-Augmented Generation) solutions, and end-to-end product development.
+
+We help individuals and businesses build intelligent systems like this one — integrating custom LLMs, vector databases, and scalable infrastructure.
+
 [![Website](https://img.shields.io/badge/Website-unicodax.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://unicodax.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-UnicodeX-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/unicodax/)
-
 
