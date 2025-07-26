@@ -61,11 +61,11 @@ ASTRA_DB_APPLICATION_TOKEN=your_astra_db_application_token
 ```
 # Future Improvements
 
-- **Add more live data sources for up-to-date football stats.
-- **Implement user authentication for personalized experience.
-- **Add analytics dashboard to track popular queries.
-- **Support multi-language football queries.
-- **Enhance UI/UX with more animations and responsive design.
+- Add more live data sources for up-to-date football stats.
+- Implement user authentication for personalized experience.
+- Add analytics dashboard to track popular queries.
+- Support multi-language football queries.
+- Enhance UI/UX with more animations and responsive design.
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
@@ -73,5 +73,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## Connect with us
 
-[![Manish LinkedIn](https://img.shields.io/badge/Manish-Darji-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![UnicodeX](https://img.shields.io/badge/UnicodeX-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/company/unicodex/)
+[![Manish LinkedIn](https://img.shields.io/badge/lukas-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/manish-d-05b05221a/))
+[![UnicodeX](https://img.shields.io/badge/UnicodaX-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/company/unicodex/](https://www.linkedin.com/company/unicodax/?viewAsMember=true))
