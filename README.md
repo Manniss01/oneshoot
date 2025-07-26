@@ -42,3 +42,36 @@ Traditional chatbots rely solely on generative models that can hallucinate or pr
 | [dotenv](https://github.com/motdotla/dotenv)     | Environment variable management    |
 
 ---
+
+```
+bash
+- git clone https://github.com/Manniss01/oneshoot.git
+- cd oneshoot
+Create .env.local file in the root with this below
+
+OPENAI_API_KEY=your_openai_api_key
+ASTRA_DB_ID=your_astra_db_id
+ASTRA_DB_REGION=your_astra_db_region
+ASTRA_DB_KEYSPACE=your_astra_db_keyspace
+ASTRA_DB_APPLICATION_TOKEN=your_astra_db_application_token
+
+- npm install
+- npm run dev
+
+```
+# Future Improvements
+
+**Add more live data sources for up-to-date football stats.
+**Implement user authentication for personalized experience.
+**Add analytics dashboard to track popular queries.
+**Support multi-language football queries.
+**Enhance UI/UX with more animations and responsive design.
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+
+## Connect with us
+
+[![Manish LinkedIn](https://img.shields.io/badge/Manish-Darji-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
+[![UnicodeX](https://img.shields.io/badge/UnicodeX-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/company/unicodex/)
