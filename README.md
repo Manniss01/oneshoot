@@ -89,9 +89,9 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
-### 🏢 UnicodeX (Company)
+### 🏢 UnicodaX (Company)
 
-UnicodeX is a forward-thinking software company specializing in AI-powered applications, chatbots, RAG (Retrieval-Augmented Generation) solutions, and end-to-end product development.
+UnicodaX is a forward-thinking software company specializing in AI-powered applications, chatbots, RAG (Retrieval-Augmented Generation) solutions, and end-to-end product development.
 
 We help individuals and businesses build intelligent systems like this one — integrating custom LLMs, vector databases, and scalable infrastructure.
 
